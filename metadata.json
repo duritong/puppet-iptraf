@@ -1,0 +1,16 @@
+{
+  "name": "duritong-iptraf",
+  "author": "duritong",
+  "description": "Manage iptraf",
+  "license": "GPLv2",
+  "project_page": "",
+  "source": "http://git.puppet.immerda.ch/?p\u003dmodule-iptraf.git;a\u003dsummary",
+  "summary": "",
+  "version": "0.0.1",
+  "checksums": {
+    "Modulefile": "c78cbea5b2db2f5a7bfc33e90373230b",
+    "README": "e74268fd923b897d0e2482ccc3819a88",
+    "manifests/base.pp": "e68da59e0d2a99fdb8629e63eca79d6d",
+    "manifests/init.pp": "e2d96544319ae05add3c3a7546998eb0"
+  }
+}
