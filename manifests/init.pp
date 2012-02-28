@@ -12,5 +12,8 @@
 #
 # [Remember: No empty lines between comments and class definition]
 class iptraf {
-  include iptraf::base
+  case $::oepratingsystem {
+    centos: { include iptraf::centos }
+    default: { include iptraf::base }
+  }
 }
