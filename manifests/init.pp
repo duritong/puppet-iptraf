@@ -12,7 +12,7 @@
 #
 # [Remember: No empty lines between comments and class definition]
 class iptraf {
-  case $::oepratingsystem {
+  case $::operatingsystem {
     centos: { include iptraf::centos }
     default: { include iptraf::base }
   }
