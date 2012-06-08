@@ -7,6 +7,7 @@
   "source": "http://git.puppet.immerda.ch/?p\u003dmodule-iptraf.git;a\u003dsummary",
   "summary": "",
   "version": "0.0.1",
+  "dependencies": [],
   "checksums": {
     "Modulefile": "c78cbea5b2db2f5a7bfc33e90373230b",
     "README": "e74268fd923b897d0e2482ccc3819a88",
